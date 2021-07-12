@@ -11,7 +11,7 @@ const Jaciel = {
   tools: [React, Redux, Node],
   
   
- challenge: "I am doing the #100DaysOfCode challenge focused on JavaScript"
+ challenge: "I am doing the CS50 Hardvard Course"
 }
 ```
 
