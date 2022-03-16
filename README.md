@@ -19,8 +19,8 @@ const Jaciel = {
 
 
 - 👀 I love coding, i'm triying to be a full Stack, I know it's not easy but i'm gonna make it.
-- 🌱 I’m currently learning JavaScript
-- 💞️ I'm currently a freelancer, but open to work.
+- 🌱 I’m currently learning Node
+- 💞️ I'm currently an instructor of a Java full-stack bootcamp.
 - 📫 How to reach me ... 
    rauljaciel_91@hotmail.com
 
