@@ -7,8 +7,8 @@
 ```
 const Jaciel = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Node],
+  code: [Javascript, HTML, CSS, Java],
+  tools: [Spring, Docker],
   
   
  challenge: "I am doing the CS50 Hardvard Course"
